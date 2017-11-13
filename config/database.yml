@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  pool: 200
+  database: teste
+  host: localhost
+  port: 3306
+  username: root
+  password: root

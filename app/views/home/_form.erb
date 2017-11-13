@@ -1,0 +1,8 @@
+<%= form_tag '/home', method: 'post', multipart: true do %>
+<div class="form-group">
+  <label for="file">Selecione o arquivo</label>
+  <input type="file" class="form-control" name="file" value="">
+</div>
+
+<input type="submit" class="btn btn-primary" name="Enviar" value="Enviar">
+<% end %>
