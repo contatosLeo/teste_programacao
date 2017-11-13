@@ -15,7 +15,7 @@ Dados da aplicação:
 * Entre na pasta do projeto e efetue os seguintes comandos:
  * $ Gem install bundler (caso não tenha o bundler instalado)
  * $ Bundle install
- * Configure o arquivo database.yml com os seus dados de banco de dados e tabela (localizado na pasta config/database.yml)
+ * Configure o arquivo database.yml com os seus dados de banco de dados(localizado na pasta config/database.yml)
  * $ rails db:migrate
  * $ rails s
  * acesse "localhost:3000"
